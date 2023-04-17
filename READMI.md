@@ -1,5 +1,3 @@
 # Hello, world!
 
-I studi in Netology
-
-14.04.23
+I study in Netology
